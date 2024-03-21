@@ -1,2 +1,2 @@
-# 2TDSPJ-2024-Exemplogit
+# 2TDSPJ-2024-ExemploGit
 Exercício de uso do GIT FLOW
